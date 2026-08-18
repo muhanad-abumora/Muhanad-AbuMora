@@ -1,23 +1,33 @@
 # Hi there! I'm Muhanad 👋
 
-I am a **Computer Engineering Student** currently specializing in **Full-Stack Web Development**. I am passionate about building clean, functional user interfaces and exploring the potential of AI and automation.
+I am a **Computer Engineering Student** currently specializing in **Front-End Web Development**. I am passionate about building clean, functional user interfaces and exploring the potential of **AI and automation**.
 
-### 🚀 My Current Focus
-- 🔭 **Learning:** Advanced Full-Stack Web Development techniques.
-- ⚡ **Projects:** Developing responsive web applications, including a Harry Potter-themed project.
-- 🛠️ **Tools:** Working primarily on **Ubuntu 24.04** and utilizing **Notion** for deep work organization.
+## 🚀 My Current Focus
 
-### 📜 Certifications
-- **Meta Front-End Development Specialization** (Coursera - Completed Feb 2026)
-- **HTML Certification** (HTUx)
+- 🎓 **Learning:** Advanced Front-End Web Development techniques
+- 💻 **Projects:** Building responsive and practical web interfaces
+- 🤖 **AI & Automation:** Exploring AI tools, automation, and modern development workflows
+- 🛠️ **Tools:** Ubuntu 24.04, GitHub, VS Code, Notion, and n8n
 
-### 🛠️ Tech Stack
+## 📜 Certifications
+
+- **Meta Front-End Development Inrto** — Coursera
+- **HTML Certification** — HTUx
+- **CSS Certification** — HTUx
+
+
+## 🛠️ Tech Stack
+
 - **Frontend:** HTML5, CSS3, JavaScript
+- **Development Tools:** Git, GitHub, VS Code
 - **Operating System:** Ubuntu Linux
 - **Automation & Productivity:** n8n, Notion
-
-### ✨ Beyond Coding
-When I'm not studying engineering, I'm likely playing survival games like **Minecraft** or **Stardew Valley**, or working on my **Ramadan-themed video series** for social media.
+- **Currently Exploring:** AI-powered development and automation
 
 ---
-📫 **How to reach me:** [muhanadabumora@gmail.com](mailto:muhanadabumora@gmail.com)
+
+## 📫 How to Reach Me
+
+- **Email:** muhanadabumora@gmail.com
+- **LinkedIn:** [Muhanad AbuMora](https://www.linkedin.com/in/muhanad-abu-mora-704217329/)
+- **Instagram:** [muhanad_media]([YOUR-INSTAGRAM-LINK](https://www.instagram.com/muhanad_media/))
