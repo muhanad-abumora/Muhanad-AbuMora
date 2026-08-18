@@ -30,4 +30,4 @@ I am a **Computer Engineering Student** currently specializing in **Front-End We
 
 - **Email:** muhanadabumora@gmail.com
 - **LinkedIn:** [Muhanad AbuMora](https://www.linkedin.com/in/muhanad-abu-mora-704217329/)
-- **Instagram:** [muhanad_media]([YOUR-INSTAGRAM-LINK](https://www.instagram.com/muhanad_media/))
+- **Instagram:** [muhanad_media](https://www.instagram.com/muhanad_media/)
