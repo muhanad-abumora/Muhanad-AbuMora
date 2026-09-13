@@ -11,7 +11,8 @@ I am a **Computer Engineering Student** currently specializing in **Front-End We
 
 ## 📜 Certifications
 
-- **Meta Front-End Development Inrto** — Coursera
+- **Python for Data Science, AI & Development** —By IBM on Coursera 
+- **Front-End Development Inrto** —By Meta on Coursera
 - **HTML Certification** — HTUx
 - **CSS Certification** — HTUx
 
